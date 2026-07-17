@@ -2,10 +2,12 @@
 
 A Chrome extension to track, limit, and block distracting websites. Built with React, TailwindCSS, and Manifest V3.
 
+## Screenshots
+
 <img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/96543ce5-e781-4e2e-82a3-deb941f0c55d" />
 <img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/78a4768e-bfa7-428f-928d-604cad85aaa4" />
 <img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/1315e211-2c2f-4f7b-8f30-e28e8db68cc2" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f939868-0055-41a6-bfb3-8ad61ee88fd3" />
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/ec05a801-6436-46e7-aa4a-ff3e72507f08" />
 
 
 
