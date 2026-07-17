@@ -1,6 +1,3 @@
-# Lockin---Chrome-extention
-This is my vibe coded project
-
 # LockIn — Website Time Manager
 
 A Chrome extension to track, limit, and block distracting websites. Built with React, TailwindCSS, and Manifest V3.
